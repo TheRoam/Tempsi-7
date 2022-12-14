@@ -1,6 +1,6 @@
 # Temps-i 7
 
-Arduino .ino script for desktop clock display using Sparkfun ESP32-Thing, BMP-280 sensor and 4 digit 7 segment display.
+Arduino .ino script for desktop clock display using Sparkfun ESP32-TheThing, BMP-280 sensor and 4 digit 7 segment display.
 
 Further documentation:
 
