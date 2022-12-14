@@ -1,10 +1,10 @@
-# Tempsi-7
+# Temps-i 7
 
 Arduino .ino script for desktop clock display using Sparkfun ESP32-Thing, BMP-280 sensor and 4 digit 7 segment display.
 
 Further documentation:
 
-https://theroamingworkshop.cloud/
+https://theroamingworkshop.cloud/b/?p=1942&lang=en
 
 Features:
   - SNTP time sync via WiFi using Sparkfun ESP32-Thing microcontroller board.
